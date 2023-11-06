@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FBI International Hotel</string>
+    <string name="no_nights">No. of Days</string>
+    <string name="checkin_date">Checkin Date</string>
+    <string name="checkin_time">Checkin Time</string>
+    <string name="checkout_date">Checkout Date</string>
+    <string name="checkout_time">Checkout Time</string>
+    <string name="room_preference">Room preference</string>
+    <string name="no_occupants">No. of Occupants</string>
+    <string name="submit_btn_txt">Submit</string>
+    <string name="roomType">Room type</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+</resources>
